@@ -1,12 +1,22 @@
 # Label_Click
-clickable label
+This is a exmple of clickable label in qt
 
 
-## build && Run
+## Qmake build && Run
     
     git clone https://github.com/roboxerox/Label_Click.git
     cd Label_click
-    mkdir build && cd build
+    mkdir qbuild && cd qbuild
     qmake ..
     make 
-    ./Label_click
+    ./ClickableQLabel
+
+
+## Cmake build && Run
+    
+    git clone https://github.com/roboxerox/Label_Click.git
+    cd Label_click
+    mkdir cbuild && cd cbuild
+    Cmake ..
+    make 
+    ./ClickableQLabel
