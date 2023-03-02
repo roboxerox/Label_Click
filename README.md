@@ -1,5 +1,5 @@
 # Label_Click
-This is a exmple of clickable label in qt
+This is an exmple of clickable label in qt
 
 
 ## Qmake build && Run
